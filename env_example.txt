@@ -1,0 +1,8 @@
+# 飞书账号配置
+FEISHU_EMAIL=your_email@example.com
+FEISHU_PASSWORD=your_password
+
+
+# OpenAI API配置（可选，用于AI生成文案）
+OPENAI_API_KEY=your_openai_api_key
+OPENAI_BASE_URL=https://api.openai.com/v1 
